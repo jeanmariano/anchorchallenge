@@ -12,6 +12,8 @@ In another term session, go into project directory and spin up the client by run
 cd client && yarn run start
 ```
 
+Then go to localhost:5000
+
 ## Tools used
 - [Create React App](https://create-react-app.dev/)
 - Fontawesome
